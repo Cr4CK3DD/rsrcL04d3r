@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
 		Inject(Pid);
 	}
 	else
-		puts("[-] Couldn't found target process");
+		puts("[-] Couldn't find target process");
 
 	system("pause");
 }

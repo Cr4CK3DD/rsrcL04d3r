@@ -1,5 +1,5 @@
 # rsrcL04d3r
-Get your payload from resrouce section without using FindResource, LoadResource, LockResource APIs.\
+Get your payload from resrouce section without using FindResource, LoadResource, LockResource APIs.
 
 ## Demo
 
